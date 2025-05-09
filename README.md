@@ -7,14 +7,11 @@ This project involves a comprehensive exploratory data analysis (EDA) on a synth
 ## Project Structure
 
 .
-├── data/
-│   └── transactions.csv           # Synthetic dataset (1000 records)
-├── notebooks/
-│   └── analysis.ipynb             # Main Jupyter Notebook for EDA
-├── visuals/
-│   └── *.png                      # Saved plots and graphs
-├── README.txt                     # Project documentation
-└── requirements.txt               # Python dependencies
+[1] Data - transactions.csv           # Synthetic dataset (1000 records)
+[2] Notebooks - analysis.ipynb        # Main Jupyter Notebook for EDA
+[3] Visuals - *.png                   # Saved plots and graphs
+[4] README.txt                        # Project documentation
+[5] requirements.txt                  # Python dependencies
 
 ---
 
